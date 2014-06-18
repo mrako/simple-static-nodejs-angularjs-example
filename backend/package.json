@@ -1,0 +1,12 @@
+{
+    "name": "rest-api-example",
+    "description": "REST API Example Application",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "~4.4.3",
+        "body-parser": "*",
+        "morgan": "*",
+        "mongodb": "~1.4.7"
+    }
+}
