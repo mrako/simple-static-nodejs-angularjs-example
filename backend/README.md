@@ -5,7 +5,9 @@
 
 ## Prerequisites
 
-
+* [MongoDB](http://www.mongodb.org/)
+* [NPM](https://github.com/npm/npm)
+* [NodeJS](http://nodejs.org/)
 
 ## Db
 
